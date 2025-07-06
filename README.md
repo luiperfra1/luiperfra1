@@ -28,10 +28,10 @@
 - 🌐 [Cinefy](https://github.com/luiperfra1/Cinefy_django): A Django-based social network for movies  
 - 🛠️ [K-BERT](https://github.com/luiperfra1/K-BERT): Implementation of K-BERT for semantic-aware NLP (TFG)  
 - 🔧 [Iduus Marti](https://github.com/gii-is-DP1/DP1-2023-2024-l5-5): Backend with Spring and frontend with React  
-- 🚀 [Acme SF](https://github.com/JesusFern/Acme-SF-D04): Java project using the ACME framework  
+- 🚀 [Acme ANS](https://github.com/MiguelPalomo/Acme-ANS-C2): Java project using the ACME framework  
 - 🌟 [Pringa-huv Uvlhub](https://github.com/pringa-uvlhub/uvlhub): Flask-based extensions for the UVLHub platform  
 - 🛍️ [PGPIPAAS](https://github.com/JesusFern/PGPIPAAS): Online course store for public exam prep, built with Django  
-- 🔄 [Borroo](https://github.com/ISPP-2425-G4/borroo): Second-hand rental app (Django REST + React, in progress)
+- 🔄 [Borroo](https://github.com/ISPP-2425-G4/borroo): Second-hand rental app (Django REST + React)
 
 
 ### 🌍 Contact
