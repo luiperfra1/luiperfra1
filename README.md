@@ -37,7 +37,7 @@
 ### 🌍 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luis-javier-periáñez-franco/)
-- ✉️ [luisjavierperianezfranco@gmail.com](mailto:luisjavierperianezfranco@gmail.com)
+- ✉️ luisjavierperianezfranco@gmail.com
 - 🔗 [Portfolio (coming soon)](https://luiperfra1.github.io)
 
 ---
