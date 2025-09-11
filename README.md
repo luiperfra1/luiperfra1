@@ -23,6 +23,7 @@
 
 ### 📌 Featured Projects
 
+- 🌐 [Indara Web](https://indara-web.vercel.app): Demo official website for the music artist **Indara**, built with **Next.js** and Tailwind CSS (currently in production).
 - 🎮 **Survival FPS** built in Unity, set on an alien planet  
 - 🧠 **Multi-objective algorithm** for ZDT3 vs NSGA-II (Bachelor thesis)  
 - 🌐 [Cinefy](https://github.com/luiperfra1/Cinefy_django): A Django-based social network for movies  
