@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1THCV9VYkKkkcOvM0EC0JZVt9EJk0M_Ij/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1fjdWsz3V7buamfnxvp9dTAoLfTCwYGVC/view?usp=sharing" target="_blank">
     📄 View my CV
   </a>
 </p>
